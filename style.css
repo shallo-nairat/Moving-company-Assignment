@@ -9,40 +9,9 @@
 .body {
     background: red;
 }
+}
 
-    
-@media screen and (min-width:600px) {
-    
-    .body {
-        background: rgb(89, 0, 255);
-    }
-    }
-
-
-@media screen and (max-width:600px) {
-    
-      .body {
-            background: rgb(0, 255, 85);
-        }
-        }
-@media screen and (min-width:768px) {
-    
-            .body {
-                background: rgb(0, 255, 179);
-            }
-            }
-@media screen and (min-width:992px) {
-    
-    .body {
-        background: rgb(217, 255, 0);
-    }
-    }
-@media screen and (min-width:1200px) {
-    
-    .body {
-        background: rgb(255, 0, 191);
-    }
-    }   
+      
 .body{
     align-self: center;
 }
