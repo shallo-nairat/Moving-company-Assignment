@@ -1,0 +1,151 @@
+.icons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@media screen and (max-width:600px) {
+    
+.body {
+    background: red;
+}
+
+    
+@media screen and (min-width:600px) {
+    
+    .body {
+        background: rgb(89, 0, 255);
+    }
+    }
+
+
+@media screen and (max-width:600px) {
+    
+      .body {
+            background: rgb(0, 255, 85);
+        }
+        }
+@media screen and (min-width:768px) {
+    
+            .body {
+                background: rgb(0, 255, 179);
+            }
+            }
+@media screen and (min-width:992px) {
+    
+    .body {
+        background: rgb(217, 255, 0);
+    }
+    }
+@media screen and (min-width:1200px) {
+    
+    .body {
+        background: rgb(255, 0, 191);
+    }
+    }   
+.body{
+    align-self: center;
+}
+.signing{
+    display: flex;
+    gap: 20px;
+    
+}
+.testimonies{
+    display: flex;
+    gap: 60px;
+}
+.newsletter{
+    display: flex;
+    gap: 60px;
+}
+.Articles{
+   display: flex;
+   gap: 100px;
+}
+.Icons{
+    display: flex;
+    gap: 50px;
+}
+.footer{
+    display: flex;
+    gap: 60px;
+    color: rgb(228, 221, 235);
+    background-color: black;
+}
+#in{
+    width: 50px;
+}
+.discover{
+    display: flex;
+    gap:100px;
+    background-color: orange;
+}
+.start{
+    display: flex;
+    gap: 80px;
+}
+.input{
+    width: 40px;
+}
+.orange{
+    color: orange;
+}
+.p{
+    background-image: url("https://moverplatform.blob.core.windows.net/wwwcovancom/blog-images/20ea0647-29b3-4def-8809-7c350bb26f5a.jpg");
+    width:600px;
+    height: 500px;
+}
+.about{
+    display: flex;
+    gap: 80px;
+}
+#storage{
+    background-color: rgb(94, 94, 238);
+    color: antiquewhite;
+    padding: 50px;
+}
+.labels{
+    background-color: orange;
+}
+#button{
+    background-color: black;
+    color: antiquewhite;
+}
+.wd{
+    display: flex;
+    gap: 100px;
+}
+.riaad{
+    display: flex;
+    gap: 150px;
+}
+.form{
+    display: flex;
+    
+
+}
+.signing{
+    background-color: rgb(23, 44, 83);
+    color: antiquewhite;
+    padding: 75px;
+    
+}
+.b{
+    background-color: orange;
+    color: antiquewhite;
+    padding: 100px;
+    
+}
+.image{
+    width: 300px;
+
+}
+#image1{
+    width: 300px;
+    height: 300px;
+}
+#image2{
+    width: 300px;
+    height: 250px;
+}
